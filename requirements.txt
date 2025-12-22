@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pymysql
+python-dotenv
+email-validator
+pydantic
+cryptography
